@@ -1,3 +1,5 @@
+ATTENTION! This version of ios-sim has been completely rewritten and the new awesome version can be found here: https://github.com/appcelerator/ios-sim
+
 ios-sim
 =======
 
